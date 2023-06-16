@@ -1,2 +1,2 @@
-# pos_releases
-The releases of the snabble POS client are found here.
+# POS releases
+The releases of the snabble POS client can be downloaded [here](https://github.com/snabble/pos_releases/releases).
