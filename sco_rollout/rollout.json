@@ -38,6 +38,9 @@
   "current": {
     "stable": "1.4.4",
     "beta": "1.5.2",
-    "latest": "1.5.3"
+    "latest": "1.5.2"
+  },
+  "allowDowngrades": {
+    "latest": "true"
   }
 }
