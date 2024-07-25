@@ -43,10 +43,5 @@
     "stable": "1.5.5",
     "beta": "1.5.5",
     "latest": "1.5.5"
-  },
-  "allowDowngrades": {
-    "latest": "true",
-    "beta": "false",
-    "stable": "false"
   }
 }
