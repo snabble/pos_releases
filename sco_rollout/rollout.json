@@ -103,7 +103,7 @@
     "latest": "1.9.9"
   },
   "allowDowngrade": {
-    "stable": false,
+    "stable": true,
     "beta": true
   }
 }
