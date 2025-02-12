@@ -114,6 +114,7 @@
   },
   "allowDowngrade": {
     "stable": false,
-    "beta": false
+    "beta": false,
+    "latest": true
   }
 }
