@@ -184,8 +184,8 @@
     "latest": "1.15.21"
   },
   "allowDowngrade": {
-    "stable": true,
-    "beta": true,
+    "stable": false,
+    "beta": false,
     "latest": false
   }
 }
