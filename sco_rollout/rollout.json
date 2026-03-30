@@ -69,7 +69,8 @@
       "1.15.13",
       "1.15.14",
       "1.15.15",
-      "1.16.24"
+      "1.16.24",
+      "1.16.29"
     ],
     "latest": [
       "1.3.18",
@@ -204,12 +205,12 @@
   },
   "current": {
     "stable": "1.15.14",
-    "beta": "1.15.14",
+    "beta": "1.16.29",
     "latest": "1.16.29"
   },
   "allowDowngrade": {
     "stable": false,
-    "beta": true,
+    "beta": false,
     "latest": false
   }
 }
